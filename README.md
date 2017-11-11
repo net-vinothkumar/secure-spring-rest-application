@@ -93,8 +93,7 @@ $ mvn spring-boot:run
  :: Spring Boot ::        (v1.5.6.RELEASE)
 
 2017-11-12 03:11:52.991  INFO 10756 --- [           main] c.l.securerest.SecureRESTAPIApplication  : Starting SecureRESTAPIApplication on badboysantu with PID 10756 (E:\CreateV\securerest\secure-spring-rest-application\target\classes started by santosh in E:\CreateV\securerest\secure-spring-rest-application)
-2017-11-12 03:11:52.996  INFO 10756 --- [           main] c.l.securerest.SecureRESTAPIApplication  : No active profile set, falling back to default profiles: default
-2017-11-12 03:11:53.125  INFO 10756 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@38e11556: startup date [Sun Nov 12 03:11:53 IST 2017]; root of context hierarchy
+2017-11-12 03:11:52.996  INFO 10756 --- [           main] c.l.securerest.SecureRESTAPIApplication  : No active profile set, falling back to default profiles: default2017-11-12 03:11:53.125  INFO 10756 --- [           main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@38e11556: startup date [Sun Nov 12 03:11:53 IST 2017]; root of context hierarchy
 2017-11-12 03:11:56.149  INFO 10756 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
 2017-11-12 03:11:56.173  INFO 10756 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
 2017-11-12 03:11:56.173  INFO 10756 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.16
@@ -128,7 +127,9 @@ $ mvn spring-boot:run
 2017-11-12 03:11:59.000  INFO 10756 --- [           main] c.l.securerest.SecureRESTAPIApplication  : Started SecureRESTAPIApplication in 6.627 seconds (JVM running for 17.659)
 ```
 # How to access Secured Spring REST Application ?
-** Using Postman client application **
+
+** Using Postman client application**
+
 ![alt tag](https://user-images.githubusercontent.com/30971809/32693939-dee281e4-c759-11e7-8a5a-f01e26b870a0.png)
 
 
