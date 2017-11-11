@@ -88,7 +88,7 @@ $ mvn spring-boot:run
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
 ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-  '  |____| .__|_| |_|_| |_\__, | / / / /
+![alt tag](  '  |____| .__|_| |_|_| |_\__, | / / / /
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::        (v1.5.6.RELEASE)
 
@@ -129,9 +129,6 @@ $ mvn spring-boot:run
 ```
 # How to access Secured Spring REST Application ?
 ** Using Postman client application **
-
-https://user-images.githubusercontent.com/30971809/32693939-dee281e4-c759-11e7-8a5a-f01e26b870a0.png
-
-
+![alt tag](https://user-images.githubusercontent.com/30971809/32693939-dee281e4-c759-11e7-8a5a-f01e26b870a0.png)
 
 
