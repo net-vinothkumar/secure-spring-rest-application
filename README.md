@@ -6,6 +6,10 @@
 
 Authentication is used to reliably determine the identity of an end user and give access to the resources based on the correctly identified user.
 
+# How Spring Security - Basic Authentication Works ?
+
+![alt tag](https://user-images.githubusercontent.com/30971809/32694124-cb1e4e0a-c75d-11e7-9a61-fba76f1a4343.png)
+
 # What is Basic Authentication ?
 
 Basic Authentication is the simplest way to enforce access controling to resources. Here, the HTTP user agent provides the **username** and the **password** when making a request. The string containing the username and password separated by a colon is **Base64 encoded** before sending to the backend when authentication is required.
