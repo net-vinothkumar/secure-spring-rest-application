@@ -127,7 +127,10 @@ $ mvn spring-boot:run
 2017-11-12 03:11:58.994  INFO 10756 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
 2017-11-12 03:11:59.000  INFO 10756 --- [           main] c.l.securerest.SecureRESTAPIApplication  : Started SecureRESTAPIApplication in 6.627 seconds (JVM running for 17.659)
 ```
+# How to access Secured Spring REST Application ?
+** Using Postman client application **
 
+https://user-images.githubusercontent.com/30971809/32693939-dee281e4-c759-11e7-8a5a-f01e26b870a0.png
 
 
 
