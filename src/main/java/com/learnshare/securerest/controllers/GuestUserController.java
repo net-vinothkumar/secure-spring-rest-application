@@ -22,7 +22,7 @@ public class GuestUserController {
             @ApiResponse(code = 404, message = "The resource not found")
     }
     )
-    public HelloMessage message(@PathVariable String name) {
+    public HelloMessage sayHello(@PathVariable String name) {
         System.out.println(name + " trying to login.");
         HelloMessage helloMessage = new HelloMessage(name, "Hello Guest User " + name + " Happy Learning..." );
         return helloMessage;
