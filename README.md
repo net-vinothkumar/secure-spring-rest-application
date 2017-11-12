@@ -1,3 +1,4 @@
+
 ## Securing REST Application Using Spring Security :
 
 # How to Secure Spring Boot REST Application - Basic Authentication ?
@@ -12,7 +13,8 @@ Authentication is used to reliably determine the identity of an end user and giv
 
 **Example :** 
 
-```Secured API : http://localhost:8080/admin/greet/David
+```
+Secured API : http://localhost:8080/admin/greet/David
 Not Secured API : http://localhost:8080/guest/greet/John
 ```
 
